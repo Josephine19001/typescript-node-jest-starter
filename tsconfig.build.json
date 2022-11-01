@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "skipLibCheck": true
+  },
+  "exclude": ["src/**/*.spec.ts", "src/**/*.integration-test.ts", "test/**/*.ts"]
+}
