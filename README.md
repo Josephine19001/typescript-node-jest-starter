@@ -2,6 +2,8 @@
 
 This is a simple template to get you started on any typescript Node js project.
 
+Feel free to fork it and modify as you wish.
+
 # Below are all the commands needed to get you started.
 
 | Name       | Description                                         |
