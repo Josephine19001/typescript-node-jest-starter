@@ -1,0 +1,8 @@
+# node modules
+node_modules/
+
+# typescript builds
+build/
+
+#test coverage
+coverage
