@@ -1,10 +1,15 @@
-## Typescript NodeJs project starter template
+## Typescript NodeJs with Jest project starter template
 
-This is a simple template to get you started on any typescript Node js project.
+This is a simple template to get you started on any typescript Node js project. In addition to setting up the typescript env, I also added configuration for jest. 
 
-Feel free to fork it and modify as you wish.
+# Getting started
+You can simply install this from npm package by running the following command
+```
+npm install typescript-node-jest-starter
+```
 
-# Below are all the commands needed to get you started.
+# Commands
+The following are some of the pre-configured commands to get you started.
 
 | Name       | Description                                         |
 | ---------- | --------------------------------------------------- |
