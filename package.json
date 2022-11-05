@@ -1,5 +1,5 @@
 {
-  "name": "typescript-node-starter",
+  "name": "typescript-node-jest-starter",
   "version": "1.0.0",
   "description": "A template for starting a typescript node project.",
   "main": "build/index.js",
