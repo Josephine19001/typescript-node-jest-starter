@@ -5,7 +5,7 @@ This is a simple template to get you started on any typescript Node js project. 
 # Getting started
 You can simply install this from npm package by running the following command
 ```
-npm install typescript-node-jest-starter
+npm i typescript-node-jest-starter-template
 ```
 
 # Commands
